@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "76508492-a936-45cb-a9f4-f9616df37839",
+		"name": "Smartcheck Demo Server",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31590862",
+		"_collection_link": "https://cloudy-desert-1119-1.postman.co/workspace/Izzie~928841e9-dd48-425d-95df-f0512002b931/collection/31590862-76508492-a936-45cb-a9f4-f9616df37839?action=share&source=collection_link&creator=31590862"
+	},
+	"item": [
+		{
+			"name": "createPaymentIntent",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"price\": 2000\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://evqbwjp247.us-east-1.awsapprunner.com/createPaymentIntent",
+					"protocol": "https",
+					"host": [
+						"evqbwjp247",
+						"us-east-1",
+						"awsapprunner",
+						"com"
+					],
+					"path": [
+						"createPaymentIntent"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
