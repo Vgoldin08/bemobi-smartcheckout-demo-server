@@ -55,10 +55,10 @@ com.example.a.app-lifecycle-runtime-compose-2.7.0-53 C:\Users\vicente\.gradle\ca
 com.example.a.app-material-release-54 C:\Users\vicente\.gradle\caches\8.10.2\transforms\f5d7c7b292bb2bf7aa1b9775e246d3fa\transformed\material-release\res
 com.example.a.app-activity-1.8.0-55 C:\Users\vicente\.gradle\caches\8.10.2\transforms\fc1ce609fc91187f19c7ad201af8fbde\transformed\activity-1.8.0\res
 com.example.a.app-runtime-livedata-1.6.6-56 C:\Users\vicente\.gradle\caches\8.10.2\transforms\ff22bace1fc5eb4bc95a6f20d98abd40\transformed\runtime-livedata-1.6.6\res
-com.example.a.app-pngs-57 C:\Users\vicente\Desktop\projeto_smartcheckout\DEMO\app\build\generated\res\pngs\debug
-com.example.a.app-resValues-58 C:\Users\vicente\Desktop\projeto_smartcheckout\DEMO\app\build\generated\res\resValues\debug
-com.example.a.app-packageDebugResources-59 C:\Users\vicente\Desktop\projeto_smartcheckout\DEMO\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.a.app-packageDebugResources-60 C:\Users\vicente\Desktop\projeto_smartcheckout\DEMO\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.a.app-debug-61 C:\Users\vicente\Desktop\projeto_smartcheckout\DEMO\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.a.app-debug-62 C:\Users\vicente\Desktop\projeto_smartcheckout\DEMO\app\src\debug\res
-com.example.a.app-main-63 C:\Users\vicente\Desktop\projeto_smartcheckout\DEMO\app\src\main\res
+com.example.a.app-pngs-57 C:\Users\vicente\Desktop\DEV\SERVER\app\build\generated\res\pngs\debug
+com.example.a.app-resValues-58 C:\Users\vicente\Desktop\DEV\SERVER\app\build\generated\res\resValues\debug
+com.example.a.app-packageDebugResources-59 C:\Users\vicente\Desktop\DEV\SERVER\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.a.app-packageDebugResources-60 C:\Users\vicente\Desktop\DEV\SERVER\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.a.app-debug-61 C:\Users\vicente\Desktop\DEV\SERVER\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.a.app-debug-62 C:\Users\vicente\Desktop\DEV\SERVER\app\src\debug\res
+com.example.a.app-main-63 C:\Users\vicente\Desktop\DEV\SERVER\app\src\main\res

@@ -1,8 +1,8 @@
-#Tue Jan 21 12:35:29 BRT 2025
-base.0=C\:\\Users\\vicente\\Desktop\\projeto_smartcheckout\\DEMO\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\vicente\\Desktop\\projeto_smartcheckout\\DEMO\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\vicente\\Desktop\\projeto_smartcheckout\\DEMO\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.3=C\:\\Users\\vicente\\Desktop\\projeto_smartcheckout\\DEMO\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Wed Jan 22 00:05:14 BRT 2025
+base.0=C\:\\Users\\vicente\\Desktop\\DEV\\SERVER\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\vicente\\Desktop\\DEV\\SERVER\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\vicente\\Desktop\\DEV\\SERVER\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.3=C\:\\Users\\vicente\\Desktop\\DEV\\SERVER\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=4/classes.dex

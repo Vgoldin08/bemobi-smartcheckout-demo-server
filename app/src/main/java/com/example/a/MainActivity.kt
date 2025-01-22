@@ -257,6 +257,9 @@ fun BillScreen(onBillClick: (String) -> Unit) {
                 .padding(16.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp)
         ) {
+            BillItem("Agosto 2024", "1297,39", "PAGA", onClick = {})
+            BillItem("Setembro 2024", "1594,95", "PAGA", onClick = {})
+            BillItem("Outubro 2024", "1899,69", "PAGA", onClick = {})
             BillItem("Novembro 2024", "1994,97", "PAGA", onClick = {})
             BillItem("Novembro 2024", "1794,99", "PAGA", onClick = {})
             BillItem("Dezembro 2024", "1371,79", "PAGA", onClick = {})

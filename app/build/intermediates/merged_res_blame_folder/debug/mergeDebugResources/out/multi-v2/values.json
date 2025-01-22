@@ -207,23 +207,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vicente\\Desktop\\projeto_smartcheckout\\DEMO\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "6,8,2,3,4,5,7",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "245,331,57,105,153,199,288",
-                        "endColumns": "41,56,46,46,44,44,41",
-                        "endOffsets": "282,383,99,147,193,239,325"
-                    },
-                    "to": {
-                        "startLines": "560,620,869,870,881,882,885",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "29146,33313,52108,52155,52899,52944,53110",
-                        "endColumns": "41,56,46,46,44,44,41",
-                        "endOffsets": "29183,33365,52150,52197,52939,52984,53147"
-                    }
-                },
-                {
                     "source": "C:\\Users\\vicente\\.gradle\\caches\\8.10.2\\transforms\\bea49575c5da46a14ba898f065bd3ac8\\transformed\\material3-release\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61",
@@ -257,25 +240,6 @@
                         "startOffsets": "116809,116849,118141,118432,118487,119983,120037,120089,120138,120199",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "116844,116891,118179,118482,118529,120032,120084,120133,120194,120244"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vicente\\Desktop\\projeto_smartcheckout\\DEMO\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "18",
-                        "endColumns": "12",
-                        "endOffsets": "856"
-                    },
-                    "to": {
-                        "startLines": "6347",
-                        "startColumns": "4",
-                        "startOffsets": "445836",
-                        "endLines": "6363",
-                        "endColumns": "12",
-                        "endOffsets": "446498"
                     }
                 },
                 {
@@ -389,6 +353,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\vicente\\Desktop\\DEV\\SERVER\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "6,8,2,3,4,5,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "245,331,57,105,153,199,288",
+                        "endColumns": "41,56,46,46,44,44,41",
+                        "endOffsets": "282,383,99,147,193,239,325"
+                    },
+                    "to": {
+                        "startLines": "560,620,869,870,881,882,885",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "29146,33313,52108,52155,52899,52944,53110",
+                        "endColumns": "41,56,46,46,44,44,41",
+                        "endOffsets": "29183,33365,52150,52197,52939,52984,53147"
+                    }
+                },
+                {
                     "source": "C:\\Users\\vicente\\.gradle\\caches\\8.10.2\\transforms\\9d4e5ed0de6965671799d3142a3a5e0b\\transformed\\lifecycle-viewmodel-2.7.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -403,6 +384,25 @@
                         "startOffsets": "120486",
                         "endColumns": "49",
                         "endOffsets": "120531"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vicente\\Desktop\\DEV\\SERVER\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "856"
+                    },
+                    "to": {
+                        "startLines": "6347",
+                        "startColumns": "4",
+                        "startOffsets": "445836",
+                        "endLines": "6363",
+                        "endColumns": "12",
+                        "endOffsets": "446498"
                     }
                 },
                 {
